@@ -6,7 +6,8 @@ Flutter Mobile Developer in Alexandria, Egypt. I build cross-platform apps with 
 
 **Projects**
 
-- **ScanDesk**: QR-based IT asset and ticketing app with role-based access, Supabase Auth and Row Level Security
+- **[Pocket Wallet](https://github.com/HamoOooOe/pocket_wallet)**: digital wallet with OTP login, biometric lock, secure money transfers and transaction history (in progress)
+- **[ScanDesk](https://github.com/HamoOooOe/scandesk)**: QR-based IT asset and ticketing app with role-based access, Supabase Auth and Row Level Security
 - **Food Planner**: recipe and meal-planning app; tech lead of a 5-developer Flutter team (DEPI)
 
 CCNA certified, so I care about what happens between the app and the server.
